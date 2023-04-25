@@ -3,7 +3,7 @@ This list is for anyone wishing to learn about web application security but do n
 
 You can help by sending Pull Requests to add more information.
 
-If you're not inclined to make PRs you can tweet me at `@infoslack`
+If you're not inclined to make PRs you can tweet me at `@drakyanerlanggarizkiwardhana`
 
 Table of Contents
 =================
